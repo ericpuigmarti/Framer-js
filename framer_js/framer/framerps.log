@@ -1,0 +1,13 @@
+{"docName":"framer_js","path":"~/Desktop/framer_js","relativeImagePath":"images","imagePath":"~/Desktop/framer_js/images","framerPath":"~/Desktop/framer_js/framer","viewInfoPath":"~/Desktop/framer_js/framer/views.framer_js.js","logPaths":["/tmp/framerps.log","~/Desktop/framer_js/framer/framerps.log"]}
+
+Running for ~/Desktop/framer_js
+PROGRESS: 75
+FOOTER: Exporting image
+PROGRESS: 87.5
+2 views changed
+Skipping ~/Desktop/framer_js/index.html (exists)
+Skipping ~/Desktop/framer_js/app.js (exists)
+Skipping ~/Desktop/framer_js/framer/framer.js (exists)
+Skipping ~/Desktop/framer_js/framer/framerps.js (exists)
+
+SUCCESS: ~/Desktop/framer_js
